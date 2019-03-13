@@ -1,4 +1,4 @@
-# Angel_hack_XTraffic
+# XTraffic-Accident Reporter
 This project is a client-server backend prototype written for AngelHack Toronto, 2018 hackathon. 
 It starts a server and allows clients to connect to it. 
 Clients can post GPS coordinates of an accident site they witnessed or are aware of, for the other clients to see.
